@@ -40,8 +40,8 @@ This repository is organised into the following sections:
    - [9 of 13 Python Regular Expressions Part Three](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Notes%20on%20Videos%20-%20Module%2014%20Advanced%20Python%20Modules/9%20of%2013%20Python%20Regular%20Expressions%20Part%20Three.pdf)
    - [10 of 13 Timing Your Python Code](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Notes%20on%20Videos%20-%20Module%2014%20Advanced%20Python%20Modules/10%20of%2013%20Timing%20Your%20Python%20Code.pdf)
    - [11 of 13 Zipping and Unzipping files with Python](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Notes%20on%20Videos%20-%20Module%2014%20Advanced%20Python%20Modules/11%20of%2013%20Zipping%20and%20Unzipping%20files%20with%20Python.pdf)
-   - [12 of 13 Python Debugger](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Notes%20on%20Videos%20-%20Module%2014%20Advanced%20Python%20Modules/12%20of%2013%20Python%20Debugger.pdf)
-   - [13 of 13 Advanced Python Module Exercise Puzzle](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Notes%20on%20Videos%20-%20Module%2014%20Advanced%20Python%20Modules/13%20of%2013%20Advanced%20Python%20Module%20Exercise%20Puzzle.pdf)
+   - [12 of 13 Python Debugger](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Notes%20on%20Videos%20-%20Module%2014%20Advanced%20Python%20Modules/12%20of%2013%20Advanced%20Python%20Module%20Puzzle%20-%20Overview.pdf)
+   - [13 of 13 Advanced Python Module Exercise Puzzle](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Notes%20on%20Videos%20-%20Module%2014%20Advanced%20Python%20Modules/13%20of%2013%20Advanced%20Python%20Module%20Puzzle%20-%20Solution.pdf)
 
 3. **Slides:**
    slides from this module are [here](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Advanced%20Python%20Modules%20Slides.pdf).
