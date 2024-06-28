@@ -28,7 +28,7 @@ This repository is organised into the following sections:
      - [08-Advanced-Modules-Exercise-Solutions.ipynb](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Jupyter%20Notebooks%20-%20Advanced%20Python%20Modules/08-Advanced-Python-Module-Exercise/08-Advanced-Modules-Exercise-Solutions.ipynb)
 
 2. **Notes on Videos - Module 14 Advanced Python Modules:**
-   This section contains PDF notes summarising the key points from the video lectures in Module 14.
+   this section contains PDF notes summarising the key points from the video lectures in Module 14.
    - [1 of 13 Introduction to Advanced Python Modules](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Notes%20on%20Videos%20-%20Module%2014%20Advanced%20Python%20Modules/1%20of%2013%20Introduction%20to%20Advanced%20Python%20Modules.pdf)
    - [2 of 13 Python Collections Module](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Notes%20on%20Videos%20-%20Module%2014%20Advanced%20Python%20Modules/2%20of%2013%20Python%20Collections%20Module.pdf)
    - [3 of 13 Python Datetime Module](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Notes%20on%20Videos%20-%20Module%2014%20Advanced%20Python%20Modules/3%20of%2013%20Python%20Datetime%20Module.pdf)
@@ -43,8 +43,8 @@ This repository is organised into the following sections:
    - [12 of 13 Python Debugger](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Notes%20on%20Videos%20-%20Module%2014%20Advanced%20Python%20Modules/12%20of%2013%20Python%20Debugger.pdf)
    - [13 of 13 Advanced Python Module Exercise Puzzle](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Notes%20on%20Videos%20-%20Module%2014%20Advanced%20Python%20Modules/13%20of%2013%20Advanced%20Python%20Module%20Exercise%20Puzzle.pdf)
 
-3. **Additional Information and Resources:**
-   - [Advanced Python Modules](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/tree/main/Additional%20Information%20and%20Resources/Advanced%20Python%20Modules) containing the code used for the examples.
+3. **Slides:**
+   slides from this module are [here](https://github.com/franpanteli/Python-Bootcamp-Module-15-Web-Scraping-With-Python/blob/main/Web%20Scraping%20Slides.pdf).
    
 ### To Clone This Repository
 ```
