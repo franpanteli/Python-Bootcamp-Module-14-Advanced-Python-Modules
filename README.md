@@ -44,7 +44,7 @@ This repository is organised into the following sections:
    - [13 of 13 Advanced Python Module Exercise Puzzle](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Notes%20on%20Videos%20-%20Module%2014%20Advanced%20Python%20Modules/13%20of%2013%20Advanced%20Python%20Module%20Exercise%20Puzzle.pdf)
 
 3. **Slides:**
-   slides from this module are [here](https://github.com/franpanteli/Python-Bootcamp-Module-15-Web-Scraping-With-Python/blob/main/Web%20Scraping%20Slides.pdf).
+   slides from this module are [here](https://github.com/franpanteli/Python-Bootcamp-Module-14-Advanced-Python-Modules/blob/main/Advanced%20Python%20Modules%20Slides.pdf).
    
 ### To Clone This Repository
 ```
